@@ -1,3 +1,5 @@
+# Write a recursive function to print the factorial for a given number. 
+
 def facto(f):
     if(f==0):
         return 0

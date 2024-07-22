@@ -1,3 +1,5 @@
+# Write a program to generate the Fibonacci series. 
+
 series = int(input("Enter a number till print the series : "))
 
 n1, n2 = 0, 1
