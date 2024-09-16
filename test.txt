@@ -1,0 +1,4 @@
+this is a text file to read all the 
+content inside the file using python file handling
+for checking if it is working or not
+Thanks for appending in this text file
