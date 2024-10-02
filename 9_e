@@ -1,0 +1,7 @@
+from tkinter import *
+
+root= Tk()
+msg = Message(root,text="hello everyone",width=500)
+msg.config(bg="red",font=('times',24,'bold'))
+msg.pack()
+mainloop()
