@@ -2,7 +2,7 @@
 from tkinter import *
 root = Tk()
 def var_states():
-    print("male : %d, \nfemale : %d" % (var1.get(),var2.get()))
+    print("male : %d, \nfemale : %d"%(var1.get(),var2.get()))
 var1=IntVar()
 Checkbutton(root,text="Male",variable=var1).pack()
 var2=IntVar()
